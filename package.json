@@ -1,16 +1,12 @@
 {
   "name": "angular-daum-map",
-  "version": "0.3.44",
+  "version": "0.1",
   "description": "Daum Map",
   "license": "MIT",
   "keywords": [
     "angular",
     "angular2",
-    "ng",
-    "daum-maps",
-    "daum",
-    "ng2",
-    "maps"
+    "angular-daum-map"
   ],
   "readme": "README.md",
   "scripts": {
